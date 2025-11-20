@@ -2,3 +2,4 @@
 c.txt
 lokális változtatás
 x javitva
+tényleg javítva
