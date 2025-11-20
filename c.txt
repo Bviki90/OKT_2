@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 c.tyt
 
 
 
 lokális változtatás
+=======
+C módosítása githubon
+>>>>>>> f6f0679b6c05fd7c399d64fd29c58d13df765180
