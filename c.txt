@@ -1,4 +1,4 @@
 <<<<<<< HEAD
-c.tyt
+c.txt
 lokális változtatás
->>>>>>> f6f0679b6c05fd7c399d64fd29c58d13df765180
+x javitva
